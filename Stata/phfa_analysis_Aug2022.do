@@ -5,9 +5,9 @@
 			*proposed analysis: These include but not limited to descriptive statistics, measure of inequtiy, decomposition analysis, Multi level Mixed effect logistic regression Modeling, bayesian  Analysis and multivariate decomposition analysis*/
 			*Source.raw data	 	: DHS and EPHI has collected five rounds of data  
 			*Acknowledgments		: Greatful to BMGF and FMOH and regional health bureaus 
-			*Author(s) and Date	started	: Mulusew J Geerbaba, Zelalem Adugna, Ali Kerim (06 April 2022)	
+			*Author(s) and Date	started	: Mulusew J Geerbaba, Zelalem Adugna(06 June 2022)	
 			*Analysis was done by   : Mulusew J Gerbaba  
-			*Reviewed by            : Ali Kerim
+			*Reviewed by            : Zelalem A
 			*Last updated			: 06.04.2022																								*
 			*Affiliation			: HANZ Consultany PLC. and Jimma University
 			*Excution instruction:
